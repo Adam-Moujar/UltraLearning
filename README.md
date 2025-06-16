@@ -7,4 +7,5 @@ learn and develop the skills, accompanied by a timeline of events.
 # GRAND TIMELINE
 
 15/06/2025 - Started ultralearning
+
 16/06/2025 - Started Rust ultralearning project
