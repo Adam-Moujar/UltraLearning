@@ -32,8 +32,8 @@ I admire the approach of ultralearning.
 A core part of what I want and something I admire is to be great at something.
 Something I am passionate for, something I love. I would love to be great at coding for example.
 
-A quote that I absolutely love is:
-"Being good means being free" - Haikyu!! (My favourite piece of fiction ever)
+A quote that I absolutely love is:<br/>
+"Being good means being free" - Haikyu!! (My favourite piece of fiction ever)<br/>
 I want to be great to not be tied down to anything. 
 
 # Principle 1: Meta-Learning
