@@ -1,4 +1,4 @@
-#UltraLearning
+### UltraLearning
 
 This is a repo to show my ultralearning journey. 
 Each project will be given its own folder, detailing the process I have taken to
