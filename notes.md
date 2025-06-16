@@ -26,15 +26,12 @@ And where many people's routine and habits change seemingly overnight without us
 change in their mental approach.
 
 Therefore, it is very important that I truly understand just how positively it could affect my life.
-That I truly grasp the effects that it could have on my life and learning.
+I admire the approach of ultralearning. Something that I continously strive for is to be great at what I love.
+To be great at coding, to great at speaking to be great at my hobbies. 
 
-I admire the approach of ultralearning.
-A core part of what I want and something I admire is to be great at something.
-Something I am passionate for, something I love. I would love to be great at coding for example.
-
-A quote that I absolutely love is:<br/>
+A quote that I embodies why is:<br/>
 "Being good means being free" - Haikyu!! (My favourite piece of fiction ever)<br/>
-I want to be great to not be tied down to anything. 
+I want to be great to not be tied down to anything. And I think ultralearning is what I need to make that true.
 
 # Principle 1: Meta-Learning
 
