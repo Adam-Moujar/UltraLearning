@@ -24,3 +24,17 @@ Not to say there are no benifits to this model, but there's quite a lot of examp
 where a strict adherance to practical advice with little regard to the mental side has led to a lack of positive change. 
 And where many people's routine and habits change seemingly overnight without using any methodology or steps, from a simple
 change in their mental approach.
+
+Therefore, it is very important that I truly understand just how positively it could affect my life.
+That I truly grasp the effects that it could have on my life and learning.
+
+I admire the approach of ultralearning.
+A core part of what I want and something I admire is to be great at something.
+Something I am passionate for, something I love. I would love to be great at coding for example.
+
+A quote that I absolutely love is:
+"Being good means being free" - Haikyu!! (My favourite piece of fiction ever)
+I want to be great to not be tied down to anything. 
+
+# Principle 1: Meta-Learning
+
