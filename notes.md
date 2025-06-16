@@ -29,7 +29,7 @@ Therefore, it is very important that I truly understand just how positively it c
 I admire the approach of ultralearning. Something that I continously strive for is to be great at what I love.
 To be great at coding, to great at speaking to be great at my hobbies. 
 
-A quote that I embodies why is:<br/>
+A quote that embodies why this is so important to me is:<br/>
 "Being good means being free" - Haikyu!! (My favourite piece of fiction ever)<br/>
 I want to be great to not be tied down to anything. And I think ultralearning is what I need to make that true.
 
