@@ -155,6 +155,52 @@ ultralearning. It is very important that:
 
 To learn, and to learn effectively, self-conciousness is a requirement. Flow is antithetical to the best learning and so the advice is:
 
-- Do not worry about flow
+- Do not worry about flow, focus on tasks which are slightly more difficult. 
 
 That is not the type of focus we are trying to reach nor sustain. 
+
+Since we've discussed, how we should focus, not let us consider duration. This is a rather subjective decision to make. 
+The literature seems to agree that practice broken down into separate studying periods is more effective than cramming. 
+Similarly, even with solid blocks of study, interleaving different skills to practice seems to be more effective
+than learning one skill at once. 
+
+The book suggests, 50mins to 1hour learning blocks for atsks, with several minutes as a break before moving on to the next task. 
+Again, this is quite a subjective decision, since it's a question of what time you have open to study. 
+Let's beggin discussing how to combat distractions by talking about the sources of distractions themselves. 
+
+### Distraction 1: Your environment.
+
+Do you have your phone off, is it visible, do you have noise in the background, is all your equipment ready. 
+Anything that could bring your focus away from your learning tasks is a possible distraction. 
+And it is important that you nip in the bud anything which serves as a distraction around you as much as you reasonably can. 
+
+### Distraction 2: Your task.
+
+Reading is harder to focus on than watching a video. Doing projects is a much easier time to focus
+than research. Choose a task which is easier to focus on. *However*, it is important that the task you choose
+doesn't supersede other considerations, like the future principles of directness (Principle 3) or feedback (Principle 6).
+
+Usually these principles are aligned, a task is hard to focus on if the cognitive load is too low such as reading and research.
+Pairing this tasks with something like taking notes, which brings the cognitive load up could help to make it easier to focus on.
+
+### Distraction 3: Your mind.
+
+We are back to meditation practices baby, man are they useful. Another source of distractions is your mind itself. Negative emotions
+like anxiety, worries about the future, negative events in your life and an endless other emotions can make it harder to focus on your task. 
+For any emotion brought about by something in your life, it might be important to first tackle the problem before beginning your ultralearning 
+project. However, not all emotions stem from problem and you will find yourself worrying about things or the future even if 
+there isn't something you can directly do about it.
+
+For these negative emotions, simply letting them pass, making a note of them, being aware of what it is and simply moving on
+is often enough to remove the emotion itself. A lot of this advice comes from mindfulness practice in buddhism, from 
+practices like Cognitive Behavioural Therapy (CBT) and ancient practices of Stoicism. 
+
+
+### Improving focus
+
+As any action that is repeatable, directing focus, maintaining it and refining it are all skills. Skills which you can improve on
+and eventually master to the point of repeating it seamlessly. It will be possible for you to master
+your focus to such a level and it may happen sooner than you may thing, simply if you as with all skills, 
+do them repeatedly.
+
+## Principle 3: Directness
