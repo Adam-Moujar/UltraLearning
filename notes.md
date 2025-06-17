@@ -76,7 +76,7 @@ The book recommends a good rule of thumb of 10%, that is 10% of your ultralearni
 researching how to learn the project. Another method, which I find most compelling, is research until you 
 find yourself not covering new ground. If you research for an hour and end up with fruitful findings, then it is very
 likely that you should still meta-learn some more however, if you find yourself getting the same answers or not going anywhere
-during your research, it's time to and start learning the skill. 
+during your research, it's time to stop and start learning the skill. 
 
 ## Principle 2: Focus
 
@@ -109,7 +109,7 @@ Rather than other tasks being more entretaining, there's something about the pro
 ### Crutch Method to Start Focus
 
 Given these 2 reasons people procrastinate, There's a method to stop procrastination and start on a task. 
-A lot of procrastination is unconcious, or given excuses by us. "We are taking a break" or "I'm having fun while I can"
+A lot of procrastination is unconcious, or excused by us. "We are taking a break" or "I'm having fun while I can"
 So the first step of learning to stop procrastination is to simply recognise it. 
 
 This will actually be something familiar if you read a lot of books on meditation. When meditating, one of the skills you learn
@@ -147,26 +147,30 @@ focus. Before we talk about sustaining focus, we must talk about what type of fo
 This is quite an interesting and important part, as not all focus is equal. Many people are aware of something called "Flow",
 a state where you stop being interrupted, you are completly absorbed and the line between unconcious and concious is blurred. 
 Flow is enjoyable and in competition, the best state to be in to deliver results. *However*, research done by K. Anders Ericsson, a 
-psychologist, argues that for flow is inconsistent with the demands of deliberate practice. You should *not* be in flow during 
+psychologist, argues that flow is inconsistent with the demands of deliberate practice. You should *not* be in flow during 
 ultralearning. It is very important that:
 
-1. You tackle projects and tasks of whoose dificulty is too high to enter flow
+1. You tackle projects and tasks of whose dificulty is too high to enter flow
 2. The most important one, you must be concious during ultra learning.
 
-To learn, and to learn effectively, self-conciousness is a requirement. Flow is antithetical to the best learning and so the advice is:
+To learn, and to learn effectively, conciousness is a requirement. Flow is antithetical to the best learning and so the advice is:
 
 - Do not worry about flow, focus on tasks which are slightly more difficult. 
 
 That is not the type of focus we are trying to reach nor sustain. 
 
-Since we've discussed, how we should focus, not let us consider duration. This is a rather subjective decision to make. 
+Since we've discussed, how we should focus, now let us consider duration. This is a rather subjective decision to make. 
 The literature seems to agree that practice broken down into separate studying periods is more effective than cramming. 
 Similarly, even with solid blocks of study, interleaving different skills to practice seems to be more effective
 than learning one skill at once. 
 
-The book suggests, 50mins to 1hour learning blocks for atsks, with several minutes as a break before moving on to the next task. 
+The book suggests, 50mins to an hour learning blocks for atsks, with several minutes as a break before moving on to the next task. 
 Again, this is quite a subjective decision, since it's a question of what time you have open to study. 
-Let's beggin discussing how to combat distractions by talking about the sources of distractions themselves. 
+It will be something that is quite personalised for each different ultralearning project and not something that can be
+given a hard rule to follow. 
+
+Combating distractions is also an important part of mainting focus, so we will break down the different sources for 
+distractions and how to resist them.
 
 ### Distraction 1: Your environment.
 
