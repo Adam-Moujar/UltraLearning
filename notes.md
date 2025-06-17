@@ -247,4 +247,46 @@ And in those cases, we come as close to the skill itself as we can.
 
 ### How to learn Directly
 
-#### Tactic 1: Project-Based Learning.
+#### Tactic 1: Project-Based Learning
+
+Rather than classes, use projects based on the skill. If you want to learn how to make video games. Simply start a project to
+make a video game. This is the core idea behind directness. Learning how to make the project itself will require 
+for you to learn all the different aspects that go into it. E.g:
+
+Learning to make videogames will require you to learn how to:
+
+- Compose the music.
+- Draw the art.
+- Game design.
+- Script the game.
+- Write the story.
+- ...
+
+#### Tactic 2: Immersive Learning
+
+Surrounding yourself with the target environment which the skill is practiced. Learning a language is the canonical example 
+of where immersion works. Putting  yourself in a situation where you must speak the language, since you have no other choice. 
+Language speaking is not the only one however, to link it to programming, joining a open-source project and being an active 
+member will expose you to new coding challenges and working with other people.
+
+#### Tactic 3: Flight Simulator Method
+
+Sometimes there's no way to practice the skill directly like piloting a plane or surgery. In that case, what matters is 
+creating a learning environment which poses many of the same cognitive problems as the skill you are learning. Such as 
+using a flight simulator as a way to learn how to pilot a plane. The level of graphics is not that important since, again,
+what matters is the cognitive challenges themselves.
+
+#### Tactic 4: Overkill Approach
+
+The last challenge is to increase the difficulty of the skill or the challenge themself. When Tristan de Montbello. when preparing
+to compete in the World Championship of Public Speaking, spoke at middle schools. The idea being that toastmaster clubs would be 
+too soft and congratulatory compared to middle school children. Another example I love is going to Smash Tournaments when learning 
+how to play. The difficulty being much higher so any mistake you do will be thoroughly exposed and taken advantage of.
+
+It is imperitive in ultralearning to projects to keep the principle of directness in your mind. 
+Ultralearning isn't just simply cramming and learning with intensity. If that was true, then it would be no different
+that traditional schooling. It is learning with purpose. 
+
+## Principle 4: Drill
+
+
