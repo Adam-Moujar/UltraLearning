@@ -289,4 +289,94 @@ that traditional schooling. It is learning with purpose.
 
 ## Principle 4: Drill
 
+Scott H. Young talks about rate-determining step. In chemistry, these are reactions in a chain of reactions which take the longest
+and thus bottleneck the rest of the process. He points that there are aspects of this which mirror learning and skills at large. 
+The example he gives is mathematics. It is a complex skills with many moving parts, and yet even if you understand the
+concepts at a fundemental level and remember the algorithms and methods to solve the problem, if your algebra
+and arithmetic skill are lacking then you will get the wrong answers. 
+
+Thus drills are all about finding these rate-determining steps, the parts in our skill and knowledge which hold back 
+everything else, so we can isolate them and work on them specificially. 
+
+However you might have a problem with this drill approach, the last principle talked about learning a skill directly, however
+drill stands as a opposite to this, rather than learning the larger skill, you break it down into smaller abstract components
+and practice those instead, so what gives? 
+
+### The Direct-Then-Drill Approach
+
+To resolve this tension one can use a direct-then-drill approach. The idea being simple: You tackle the skill/knowledge 
+directly, taking up a coding project, trying to speak another language, collaborating in a open-source project. 
+And then analyze your performance and find the subskills which you lack and drill those. 
+
+This creates a feedback loop: 
+
+Direct -> Analyze -> Drill -> Direct. 
+
+Sometimes the drills we come up with are not going to be transfere well, or at all. This is fine, in our feedback loop after going
+back to direct from drill, we will be able to see if these drills really were helpful. If they were not, that's okay, nothing much lost.
+
+The earlier in the learning process you are, the faster the cycle should be. Cycling between direct practice and drills, even withing
+the same section. As you get better and it takes a lot more effort to improve your performance, longer detour into drills might
+be more neccesary. 
+
+### How to Design Drills
+
+When applying this principle, first we have to figure out when and what to drill. As stated before, rate-determining steps in skill
+or performance is ideally what we should focus on. The skills which when improved, would cause the greatest improvement to our ability.
+The key is to experiment, hypothesise what exactly is the subskill which holds you back the most and attack that. Use the direct-then-drill
+approach to quickly analyse whether or not that is truly the right way or not. 
+
+The second thing we need to tackle is designing drills to produce improvement. It might be easy to pick apart what is lacking
+from your performance, but to create drills which isolate those without removing much of the challenge might be an issue. 
+
+And finally, doing drills are often uncomfortable and hard. By design, drills are to improve and sharpen that which we struggle with. 
+Doing things we suck at is often irritating, boring and frustrating. Often when learning, many people take the approach of doing the 
+pleasant things, so drills stick out as unnatural and often distressing.
+
+Let's look at some good ways to do drills to combat these problems. 
+
+#### Drill 1: Time Slicing
+
+The easiest way to create a drill is to isolate a slice of time in a sequence of actions. 
+Musicians will often drill a hard section, Basketball players will often drill 3s, Football players will often drill
+passing and shooting. Looking for parts of a skill which are fundamental and repeated a lot to drill is often the first
+step to consider.
+
+#### Drill 2: Cognitive Components
+
+This drill is quite similar to the first one, but rather than a slice of a larger skill, its a cognitive component. 
+When speaking a language, you have many cognitive moving parts. Grammar, pronunciation, vocabulary occur at all moments. 
+Taking one of these cognitive components and dirlling it in isolation might help without being bogged down by the nuances 
+of the other components. 
+
+#### Drill 3: Copycat
+
+Somtimes, specially in creative skills, it is impossible to practice one aspect of a skill without doing the others. 
+In such cases, it might help if you copy the parts of the skill that you don't want to drill. If software testing is what you want to drill
+then maybe copy down a problem and its solution from the internet so you only need to focus on testing.
+If practicing coloring/shading in art, take a picture which already has everything except shading and coloring done. 
+
+#### Drill 4: Magnifying glass
+
+What if, even then, you cannot isolate a particular subskill? The magnifying glass method is all about spending significantly more time
+on the subskill than the rest of the problem. If research is the skill you want to drill, you can spend an unbalanced amount of time
+researching.
+
+#### Drill 5: Prerequisite Chaining
+
+Finally, a drill often done is to start with a skill that you don't have the prerequisites for. Then, when you inevitably do poor,
+you can go back, learn one of the fundemental subskills and repeat the exercise. An example of this is Eric Barone, Stardew Valley creator,
+rather than doing a course on pixel art, he simply dived right into it. When he found that he struggled with colors, he learnt color theory, 
+and then went back and retried. 
+
+### Mindful Drilling
+
+Something which I think is quite important is the idea of mindfulness. Often when the topic of drilling comes up, the parroted
+advice that comes up is "get the reps in", simply doing the drill without giving your all, hoping that it becomes
+muscle memory eventually. I believe this approach is wrong. It is very important that you remain focused and mindful while doing
+drills so that you don't become sloppy. If you do not actively try to use drills to conciously improve your weaknesses, you will find
+yourself improving at a much slower rate, or not at all.
+
+## Principle 5: Retrieval
+
 
