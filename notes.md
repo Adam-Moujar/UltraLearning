@@ -379,4 +379,201 @@ yourself improving at a much slower rate, or not at all.
 
 ## Principle 5: Retrieval
 
+This is the most academically motived principle. There was a study done by psychologists Jeffrey Karpicke and Janell Blunt 
+that examined students choice of learning strategy and their effectiveness. The students were divided into 4 groups:
 
+- Reviewing a text a single time
+- Reviewing it repeatedly
+- Free recall
+- Concept mapping
+
+Then they would be tested. When asked to predict their scores, it went as followed:
+
+1. Reviewing repeatedly
+2. Reviewing once
+3. Concept mapping
+4. Free recall
+
+The actual tests however, were incredibly different. Testing yourself, that is free recall, outperformed all the 
+other testing strategies by a incredibly large margin. One might wonder if its to do with the context of the study. 
+Since the principle of directness tells us that to improve at something you must do it, since the students were tested 
+at the end of the study, the students who used free recall by repeated studying must have done better. But even if the final 
+method was changed to produce a concept map, free recall still outperformed all the other methods, even concept mapping.
+
+Another explanation is feedback. Testing comes with the added benefit of telling you when you are right or wrong. 
+However again when the study was changed so that feedback was removed, free recall still outperfomed the other study methods. 
+
+It seems undeniable that free recall is the best study method.
+
+### Difficulty in learning
+
+It seems that difficulty and learning is intrinsincally linked. Free recall testing, where the student needs to recall
+as much as possible without any asistance, results in better tetention that recall tests where the students are given hints.
+
+Giving someone a test immediately after they learnt someone fares *worse* than giving them the test with a slight delay,
+where the information is not as fresh and they need to work harder to recall the answers. Difficulty seems to be not an obstacle,
+but maybe the goal of making retrieval work. 
+
+This bodes well for ultralearning as a strategy. One of the core tenets is a high intensity approach. Strategies where the difficulty
+is high immediately seem to fare really well as long-term strategies. However, be aware that too much difficulty is also undesirable. 
+If recall is impossible, then the purpose of recall test are hampered. Test too long from when the imformation was acquired, and you risk
+forgetting the information entirely. 
+
+### Should  you take the final exam before the class?
+
+An idea that seems preposterous is taking the test before studying any material. Trying really hard to solve questions of which you have no
+knowledge of. However observation from retrieval research seem to imply that taking a test before learning any new material, makes 
+the information much easier to retrieve in the future and makes it easier to learn information in the first place.
+
+### How to Practice Retrieval
+
+#### Tactic 1: Flash Cards
+
+Flash cards are the classic way of retrieval. Pairing questions and answers and drilling them consistently is quite effective. 
+Spaced-repetition system are the current best systems for them. Flashcards are helpful for stuff like memorizing systax, but for concepts
+that are applied in real programs, they often don't fit a cue-response framework. 
+
+#### Tactic 2: Free Recall
+
+This tactic is often helpful after reading a section from a book (like the section I'm reading right now) or a lecture and try to 
+write down everything you remember. Often being quite difficult and very hard to get everything down, but again, this type of difficulty
+is welcomed. 
+
+#### Tactic 3: Question-Book Method
+
+This is a method for note taking. Rather than writing down the simplified answers and notes, you can write down the questions instead. 
+E.g: Instea of writing down "The Magna Carta was signed in 1215", you can instead note down, "When was the Magna Carta signed?", thus
+generating practice retrieval material for later, so long as you reference where you can get the answer from. 
+
+#### Tactic 4: Self-generated Challenges
+
+The aboce tactics are quite good for retrieval of simple information, but for skills, remembering information is not enough. In this case
+you can create challenges for yourself to solve later. If as a programmer you read about a new algorithm, you can challenge yourself to 
+use it in the future.
+
+#### Tactic 5: Closed-Book Learning
+
+Any learning activity can become a retrieval task if you cut the ability to search for hints. Concept mapping, a strategy which didn't
+work particularly well, can be strengthened if you cut the ability to search for information. This makes sure that the information becomes
+stored inside your head.
+
+Looking back at many of the greats, people who have made great strives in their domain, it seems that they employed retrieval in 
+some form or another. "Retrieval is not a sufficient tool to create genius, but it may be a necessary one."
+
+## Principle 6: Feedback
+
+This is one of the most consistent principles in ultra-learning, strategies often have very intense approaches where feedback is provided
+almost immediately. Tristan de Montebello spoke multiple times per week. Benny Lewis, spoke to people in a foreign language immediately. 
+Roger Craig, tested his Jeopardy! knowledge relentlessly. Feedback and ultralearning are an inseparable pair. 
+
+However feedback is a double-edged weapon. A meta-study done by Avraham Kluger and Angelo DeNisi looking at hundreds of studies on feedback
+found that in over 38%! of cases, feedback actually has a negative impact. This is largely on whether the feedback has useful information, 
+or whether the learner uses the feedback correctly. 
+
+An ultralearner needs to be on guard for two possibilities:
+
+1. Do not ovverreact to feedback, positive or negative. 
+2. Feedback impacting your motivation. Negative feedback being an obvious one, but also goes for positive feedback. 
+
+The second point is incredibly important. The reason why feedback often goes underused is how uncomfortobale it is. It is often harsh
+and fiscouraging and doesn't feel nice. Ultralearners however need to be aggresive when pursuing feedback. There's a reason why 
+many of the most impressive projects involve feedback as a core part of the cycle. Avoiding a huge source of improvement in critiques
+and assessments is a big weakness in many learning strategies. 
+
+### What kind of feedback do you need?
+
+As with most other questions like this one, the answer is it depends. The feedback needed for stand-up comedy would be 
+significantly different than the feedback that would good for coding. A one size fits all approach would do more harm than
+good. We can consider feedback into 3 parts: outcome feedback, information feedback and corrective feedback. 
+
+#### Outcome feedback: Are you doing it wrong?
+
+The first type of feedback, and the least granular, is outcome feedback. This tells you roughly how well you are doing overall
+but not much more than that. It usually comes in the form of grades, pass/fails, A, B or C, or it can come in the form of aggregate 
+feedback. The applause someone receives (or lack thereof), whether a product sells well or not. Whether or not a program runs or not.  
+
+This type of feedback is the easiest to get, and research show that getting this feedback, which lacks a lot of other data, can
+be helpful in an of itself.
+
+#### Information feedback: What are you doing wrong?
+
+This stands as a somewhat more detailed form of feedback than outcome feedback. This feedback tells you what you're doing wrong,
+but doesn't necessarily tell you how to fix it. When speaking a foreign language with someone, their facial expression can tell you a 
+great deal about when you used a word/phrase wrong, but can't tell you why or how to fix it. 
+
+This kind of feedback is easy to obtain, when you have a real-time access to feedback source. A computer programmer when a program
+is not compiling properly.  
+
+#### Corrective feedback: How can you fix what you're doing wrong?
+
+Finally the most descriptive, and the best, type of feedback is corrective feedback. Not only does it show you whether or not
+something is wrong, but also tells you how to fix it. This is often available only through a coach, or mentor or teacher. 
+
+Corrective feedback is the most constructive form, since it can spot weakness which would largely be missed by most other types
+of feedback. 
+
+#### Further notes on types of feedback
+
+You need to be careful when upgrading feedback from a weaker to a stronger form. You can only upgrade from outcome to information
+if the feedback tells you what you are doing wrong. You can only improve information to corrective when the feedback tells you how 
+to fix it. It is also very important to evaluate whether or not the feedback is actually useful, sometimes when eliciting feedback,
+you will get different advice, and it will be on you to decide which ones are useful and not. 
+
+De Montebello noted that most of the advice people game him wasn't very useful, but its consistency was. Riot August, a video game
+designer at Riot, a video game company, has a quote: 
+
+- "Players are often very good at telling you when something is wrong, but are often terribly at fixing it"
+
+### How quick should feedback be?
+
+The research seems to be not in agreement. Some research argues in favour of faster feedback while some other studies have found 
+that delaying the correct response of the original task might be more effective. Scott H. Young advices that in general, the faster
+the feedback the better, helping recognise mistakes quicker. However feedback too soon, before you've given yourself a fair chance at 
+attempting to solve the difficult problem before giving up, can result in detrimental results. 
+
+### How to improve your feedback
+
+There are tactics that a ultralearner can employ to get better feedback. 
+
+#### Tactic 1: Noise cancellation
+
+Any feedback are going to contain both a signal, the useful information, and noise. Noise is caused by random factors outside 
+your control. If your writing gets more views one day, it might not be because your writing is sucessful but rather because
+of algorithm shenanigans, or because it went viral or for a myriad of other reasons.
+
+Combating noise requires us to filter feedback, carefully sifting through it and assessing how useful and applicable to the 
+topic it is. 
+
+#### Tactic 2: Hitting the difficulty sweet spot
+
+Feedback is all about information, and more information means a higher ability to learn. If you know that success is guaranteed
+by doing a challenge which is too easy, the feedback would provide little to no information. The harder the feedback is to predict
+before doing the task, the more important it is. 
+
+Many people avoid failure because the feedback of an unavoidable failure is not always helpful. But the opposite problem, feedback
+being always too positive is a more pervasive problem. Ultralearners have to adjust their environment so that they neither fail nor 
+succeed too often. If they fail too much then make the challenge simpler, if they fail too little then the task must be made more 
+difficult. It's only when one can't reliably predict the success or fail, that the feedback is most useful. 
+
+#### Tactic 3: Metafeedback
+
+As with metalearning, metafeedback is feedback not on your performance, but on the learning strategy itself. Chess players
+can use their ELO growth as a way to test different strategies. LSAT studiers could use their improvements on mocks. 
+If your learning rate is too slow, that might an indictment that its time to experiment with other methods. 
+You can also directly compare different study methods to see which work better.
+
+#### Tactic 4: High-Intensity, Rapid feedback
+
+Sometimes the trick is just to get a lot of feedback, a lot of the time. A lot of people are averse to getting feedback for fear 
+of critiques and failures. Throwing yourself in an environment where feedback is often will you get you acclimated to feedback and 
+provokes you to engage in learning more aggressively. 
+
+### Beyond Feedback
+
+Feedback is not an attack on your ego. Maximising the environment so it's mostly positive and successful might seem helpful at the start
+but that is why it's a more pervasive issue than an environment of repeated failure. 
+
+Feedback at its core is about useful information, it is not an attack on you personally, it's a tool to be used to examine your methodology.
+A healthy approach to feedback is not just a core part of ultralearning, it's a necessity.
+
+## Principle 7: Retention
