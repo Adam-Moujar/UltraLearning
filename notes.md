@@ -204,3 +204,43 @@ your focus to such a level and it may happen sooner than you may thing, simply i
 do them repeatedly.
 
 ## Principle 3: Directness
+
+"Directness is the idea of learning being tied closely to the situation or context you want to use it in." - Direct quote from the book. 
+Having spent essentially 2 decades of my life, which at the point of writing this I am 22,  in education. I have many thoughts
+and feelings about schooling. I will not say it is useless, I believe I wouldn't have found my love for coding had it not
+been for my choice to take it as a subject during GCSE. However, one of the very big detriments of learning in school and something
+that has affected me up until now is this lack of directness when learning. 
+
+In school, when you learn something it is never to solve a problem, not as a direct result of a task and not as a way
+to solve any problem, but simply to pass a test. This makes it so that learning for a problem is not something
+which is natural, directness is not something that is taught. If the skill you are trying to learn is talking 
+in another language, apps like duolingo are fun, but they do not directly solve the problem. 
+
+Directness is arguably the *center* of ultralearning projects, to learn not for the sake of learning, but for the 
+sake of the skill and as such, we learn in the most efficient, direct manner possible. Many other ultralearning enthusiasts
+learn by doing the thing itself:
+
+- Roger Craig when he did his ultralearning project for Jeopardy! learn by doing past Jeopardy! questions
+- Eric Barone, creator of Stardew Valley, learnt art for video games by doing art for video games. 
+- Benny Lewis learnt languages by following a policy of strictly speaking only that language. 
+
+Traditional learning is so far removed from this type that this seems foreign to us.
+
+Directness is the cornerstone of ultralearning. 
+Learn the skill by doing the skill:
+
+- Learn to code by coding.
+- Learn to speak a language by speaking it.
+- Learn to pass the MIT curriculum by taking the tests. 
+
+Do the thing! Do the thing! Do the thing!
+A book will never supplant the skill itself.
+
+Now to be clear, directness is not something that is always replicable or easy to do. 
+I would love to take the MIT final tests, but I have one shot. I would love to start 
+speaking another language right now, but I have no one to speak with. 
+And in those cases, we come as close to the skill itself as we can. 
+
+### How to learn Directly
+
+#### Tactic 1: Project-Based Learning.
