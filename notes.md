@@ -769,7 +769,106 @@ at these people are simply magicians of their craft, not reachable by us mere mo
 are simply showcases of great intuition. An like all other skills, something that can be trained by everyone, even us. 
 What sets apart Magnus Carlsen from me is nothing intrinsic, but rather the great effort and care put for the craft.
 
-#### Principle 9: Experimentation
+## Principle 9: Experimentation
 
 Here we are, the last principle. If someone not me is reading this I would be shocked, shocked I tell you. It's a big mess of notes,
 some that hardly make sense probably. Still, we got here in the end.
+
+When starting a new skill, following the most trodden path is sufficient to build a good base of knowledge. However, as your skill develops,
+and progress slows down, it's often not enough anymore to follow another's path; you need to experiment to find your own. 
+When starting out, the most common advice, is the most well supported, having losts of material, teachers and research done to support it. 
+But as you get more and more advanced, there are less peers, less people to teach, less material to view, less research done and where small
+differences at the start of the process begin deviating more and more.
+
+Another reason why experimentation becomes more necessary as you approach mastery is that progress begins to plateau after a while. New knowledge,
+skills, and information become harder to find and accumulate, and old drills become a matter of habit rather than necessity. 
+
+Finally, as you reach expertise, many of the habits you have picked up as a beginner start to hinder your progress, mastery becomes not just 
+a matter of progress, but also of unlearning ineffective approaches and finding the most direct path forward. 
+
+There are three types of experimentation:
+
+### 1. Experimenting with Learning Resources
+
+The first place we can begin experimenting is with all the different options we have available to learn. As a programmer for example, we have a
+myriad of options to begin learning, from textbooks, to videos, to online courses, to self assigned projects, to exercises and the list goes on. 
+A good strategy to find the best way to learn a particular skill is to pick one of these resources and to apply it rigorously for some predetermined
+time. Then you can evaluate how well it is working and whether or not to change approaches. 
+
+### 2. Experimenting with Technique
+
+As soon as you step away from the beginner level, the question moves not from "How can I learn this?" but to "What should I learn next?". As a novice
+in Rust, at first one might be concerned only with learning the basics of Rust, however as he gets more comfortable with the language, topics like
+Tokio async, CLI tools like clap, kernel building, GUI libraries/frameworks, wasm, etc... become open to learn. Once again when faced with a myriad 
+of options, experimentation plays a key role in finding your way forward. 
+
+### 3. Experimenting with Style
+
+Finally, once you have become comfortable with the foundational skills and knowledge and have started to approach mastery, there is no right way to
+tackle problems, but rather many different options to choose from, each with their pros and cons. And as always, when faced with choice, experimentation
+becomes an option to weed what style of problem is suited both for you and the different class of problems. When is test driven development better,
+when is agile better than a waterfall approach, etc... 
+
+In each level of experimentation, your possibilities grow exponentially. And this brings a new form of tension, between spending time trying
+new resources, techniques and styles, versus concentrating efforts on a single path. You must form a cycle of innovation, one where you move from
+exploring new options, to settling down and honing one which you have chosen. 
+
+### Mindset of Experimentation
+
+To seriously integrate experimentation in your learning style, one must be clear that you can improve the way you work. You have be open to 
+the idea that simply because advice and strategies are repeated by others, that one must not be chained down to it. The experimental mindset is
+all about realising that not only is your ability something you can improve, but also the approach with which you improve.
+
+### How to Experiment
+
+Like many of the other principles that came before it, there are tactics we can employ to add experimentation to our ultralearning projects. 
+
+#### Tactic 1: Copy, Then Create
+
+The first strategy we can employ is to copy down others' solution to the problem, to emulate their style. At the beginning, the amount of 
+choice is suffocating for any new learner, so copying down a masters style can help you simplify the choices you need to make. After you start
+becoming more comfortable and able at the skill, breaking down why the style works and slowly deviating away from it become possible choices
+you can take to start making your own approach. 
+
+#### Tactic 2: Compare Methods Side-by-Side
+
+This tactic is analogous to the scientific method. By controlling the variables and testing 2 different methods side-by-side, we can begin 
+seeing the differences between them, their pros and cons and see what the impact is. If learning coding through self-assigned projects
+provides better results than learning coding through books then that method becomes more appealing moving forward. 
+
+#### Tactic 3: Introduce New Constraints
+
+As mentioned before, as you master the skill, learning becomes not just about covering new material, but also unlearning past habits. 
+
+- The challenge of learning in the beginning is that you don't know what to do. The challenge of learning in the end is that you think you already know what to do. - Scott H. Young, author of ultralearning
+
+In such cases, the idea of adding constraints to your future learning, as a way to force you down a path you haven't been before, becomes more and more
+appealing as a form of experimentation. 
+
+#### Tactic 4: Find Your Superpower in the Hybrid of Unrelated Skills
+
+This is advice on how to differentiate yourself from others. The normal path to greatness is to take a well-defined skill and to drill it 
+to mastery. However a different approach, one that is more accessible for professional and creative skills, is to take 2 different skills and
+to combine them into 1 specific niche. You might not be the best programmer, and also not be the best speaker, but the best programmer who
+can give talks and teach new beginners. 
+
+#### Tactic 5: Explore the Extremes
+
+Finally, once you have stepped into the realm of expertise, exploring the extremes, finding a small subset of the skill and drilling it, pushing it
+to its absolute ends, becomes something to consider. This is both as a way to stand out from the crowd, you can become the best 3-point shooter, 
+as a way to sell yourself. But also this approach allows you find a personalised style for you, choosing something which you find unique, or
+something you love, and becoming possibly the best at it. 
+
+### Experimentation and Uncertainty
+
+If learning is the processing of honing your skills, experimentation can become the process of honing your learning. The reality is, is that 
+many of the skills we would live to learn, programming, maths, singing, dacing, drawing and even life at large, are deeply complex. They are rich and
+full of different choices and paths and forcing yourself down one of these ways that others have chosen for you, is doing a big disservice to yourself.
+
+Experimentation is as important as all the other principles covered so far. It's as important to the process as feedback is, as necessary as focus,
+as helpful as drilling. While ultralearning is about choosing a project and dedicating a part of yourself to it, there's a lot of freedom involved,
+do not deny yourself the ability to enjoy this freedom. 
+
+## Your First Ultralearning Project
+
+This section is going to be a summary and a compact to-do list of all the other principles
