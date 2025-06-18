@@ -871,4 +871,7 @@ do not deny yourself the ability to enjoy this freedom.
 
 ## Your First Ultralearning Project
 
-This section is going to be a summary and a compact to-do list of all the other principles
+This section is going to be a summary and a compact to-do list of all the other principles. There's a quote however in this section
+that is quite important to keep in mind. 
+
+- "The biggest obstacle in ultralearning is simply that most people don't care about their own self-education to get started. As you've read this far, I doubt that is true of you. Learning, in whatever form it takes, is something that's important to you. The question is whether that spark of interest will ignite into a flame or be smothered prematurely" - Scott H. Young
