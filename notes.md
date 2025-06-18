@@ -875,4 +875,125 @@ This section is going to be a summary and a compact to-do list of all the other 
 that is quite important to keep in mind. 
 
 - "The biggest obstacle in ultralearning is simply that most people don't care about their own self-education to get started. As you've read this far, 
-I doubt that is true of you. Learning, in whatever form it takes, is something that's important to you. The question is whether that spark of interest will ignite into a flame or be smothered prematurely" - Scott H. Young
+I doubt that is true of you. Learning, in whatever form it takes, is something that's important to you. The question is whether that spark of interest 
+will ignite into a flame or be smothered prematurely" - Scott H. Young
+
+As with most things, the biggest obstacle is not anything external, but ourselves. 
+
+### Step 1: Do Your Research
+
+The first step of any project is the metalearning research. At minimum the search should include: 
+
+1. What topic you are going to learn and its aproximate scope.
+
+You need to know what you are learning before you start. It's also quite helpful if the scope is narrow. Learning Coding as a scope is much
+harder to start with than learning Rust.
+
+2. The primary resources you will use. 
+
+What materials you are planning to use, books, courses, videos, classes, tutorials, etc...
+
+3. A benchmark for how others have successfully learned this skill or subject. 
+
+It will be quite helpful to look online for the most well trodden path that others have taken. It's not necessary to copy it, but atleast to
+make sure you haven't missed some key resources. 
+
+4. Direct practice activities. 
+
+It will be quite helpful to find things to do at the start as away to gauge how well you are progressing. Finding opportunities
+to practice is helpful. 
+
+5. Backup materials and drills.
+
+In addition to the beginner material you want to cover, it might be interesting to consider any further material to use. Stuff that is 
+helpful not now, but at some point in the future. 
+
+### Step 2: Schedule Your Time
+
+This is advice that is quite universal in self-improvement books. Atomic habits and Tiny habits both argue that before the habit or action
+you want to take, setting up when and how long it will take is very helpful to make sure you stick to it. This is that same idea. 
+
+Ultralearning will require some time investment and there are some things you will need to consider before starting: 
+
+1. How much time will you commit? 
+
+This is quite flexible, since how much time you have will change depending on your other commitments, but it is important that you 
+devote a certain chunk of your time into it.
+
+2. When will you learn?
+
+After deciding how much time to spend, it is quite important that you spread that time effectively. There is no rule of thumb I could 
+possibly give you since it all depends on your schedule, just make sure you stick to all the principles we stated e.g spread it around
+evenly if possible. 
+
+3. Make a note of the scheduling
+
+It is important, both psychologically and logistically, that you know when the learning slots are and for how long. Something atomic habits hammers on 
+and on, is how important it is to give concrete time. It helps you, for a lack of a better word, lock in. 
+
+### Step 3: Execute Your Plan
+
+Whatever you got planned, do it. Even if you are worried it's not perfect, it never will be, it is time to start putting your plan into motion. 
+Sometimes you will only notice the gaps in your plan once you start it. Here are some questions to keep yourself from slipping:
+
+1. Metalearning: Have I enough research? Have I interviewed successful learners/experts? Have I spent about 10% of total time 
+preparing my project?
+
+2. Focus: Am I focus when I am learning? Am I procrastinating? How long until I get a good flow? How long can I sustain focus?
+Should my attention be more concentrated for intensity or diffused for creativity?
+
+3. Directness: Am I learning the way I will apply the skill in the future? If not, what am I missing/doing wrong? How can I
+transfere what I'm learning to real life?
+
+4. Drill: Am I spending time on my weakest points? What is the rate-limiting steps holding me back? Is my progress slowing? Are there too 
+many components to focus on? 
+
+5. Retrieval: Am I spending most of time reviewing or retrieving things from memory? Do I have ways to test myself? Can I successfully explain
+what I learned today? yesterday? A week ago? 
+
+6. Feedback: Am I getting honest feedback about my performance? Am I dodging criticism? Do I know what I'm doing well or not? Am I using good
+feedback or is it noisy data?
+
+7. Rentention: Do I have a plan to remember what I'm learning? Do I space my learning so it will stick longer? Am I overlearning the core
+parts of my skill? Am  I turning knowledge into procedure? 
+
+8. Intuition: Do I deeply understand the things I'm learning? Could I teach these ideas to someone else? Is it clear to me why I'm learning
+what I am learning and why it is true?
+
+9. Experimentation: Am I getting stuck to a specific resource/technique/process? Do I need to branch out? Have I gone beyond and created a 
+unique style? 
+
+These questions will serve as a guide of whether or not you are sticking to the principles we have talked about. 
+
+### Step 4: Review Your Results
+
+After an ultralearning project, or if you decide to take a break, you should spend sometime as always analysing it. What went right? What went wrong? 
+What should I do next time? 
+
+Not at all projects will be successful, c'est la vie. All projects are worth analysing ones, the successful ones and even more specially, the 
+unsuccessful ones. Each project can turn into a lesson for the next.
+
+### Step 5: Choose to Maintain or Master What You've Learned
+
+Also after a project you will have to make a decision, is it worth pursuing further what I've learned? If you choose not to, you will also 
+have to decide whether or not to maintain knowledge of your skill, lest it wither away. 
+You have 3 options:
+
+1. Maintenance: Invest enough pratice to sustain the skill, but not much more than that. 
+2. Relearn: You could simply decide to relearn the skill later when necessary, since relearning a skill happens much much faster. 
+3. Mastery: Should you decide that this skill is something to focus on, you need to decide what to do from now on. 
+What are the next steps to pursue and what is the best way to do so?
+
+
+## Conclusion
+
+Before going into this book, I did not know what to expect. I had a habit of picking up self-improvement books, reading them, maybe applying 
+their advice for a bit before moving on into the next new thing. In the back of my mind, I had expected that this time would have been no different, 
+and maybe really it isn't, only time can tell. 
+
+There's something that ultralearning has shown me however, is that much of our actions are taken without deeper concious thought behind it. 
+Learning can be a rich, complex thing and yet for most of my learning in my life, it was passionless. 
+
+Learning can be a fun thing, it can be a life changing thing, it can make you great:
+
+- "To be the greatest you need to have fun, and when you're having fun, you're the greatest." - Kotaro Bokuto, Haikyu!!
