@@ -577,3 +577,199 @@ Feedback at its core is about useful information, it is not an attack on you per
 A healthy approach to feedback is not just a core part of ultralearning, it's a necessity.
 
 ## Principle 7: Retention
+
+This principle applies mainly for information dense skills, but really it's applicable any time when a person needs to remember a lot
+of information. However, before we give the methods for keeping things memorised, let's shed some light into, perhaps, the reason
+why we forget things in the first place. There are 3 dominant theories:
+
+### Decay: Forgetting with Time
+
+The most common sense theory, and the one believed by most people, is that memories slowly decay with time. Things that happened this week
+are much easier to recall than things that happened last month, or last year, or even last decade. However there are obvious flaws with 
+this theory, for example, some memories from childhood remain incredibly vivid while I could not remember what I ate for breakfast last week.
+It seems true that decay is a factor in forgetting, but it's not the only one. 
+
+### Interference: Overwritting Old Memories
+
+Another theory suggests that similar memories occupy a similar space in our mind, kind of like files in a computer. Examples of these are like
+when learning very similar information, learning what loops, recursion, repeat-until loops, while loops, go-to statements do, its very easy to
+get them mixed up due to their similarity. 
+
+### Forgotten Clues: Locked Box with No Key
+
+The final theory posits that memories aren't forgotten, but rather they remain inaccessible due to forgetting a clue which bridges the input
+with the memory. This attempts to explain moments where things are at the tip of our tongue and yet we can't remember it. The benefit of this 
+theory being possibly true is that relearning this would be much easier since we wouldn't need to construct new memories but rather simply 
+repair old ones.
+
+None of these theories however, completely explain the mechanisms or the reason behind forgetting memories. I suspect that it's a mix of these
+things plus some other factors like the intensity of the memory itself. 
+
+### How Can you Prevent Forgetting?
+
+There are various different methods that different ultralearners use to remember information. Some methods are likely better or worse depending
+on how information dense the skill is, or what kind of information needs to be remembered. The methods will also change depending on whether
+information needs to be retained for long-term usage, or whether it's only neccesary to remember for a short term. In general, there are
+4 different memory mechanism used in ultralearning: 
+
+#### Memory Mechanism 1: Spacing
+
+This is likely the best studying advice that researc supports: Don't cram. Spreading learning sessions over longer intervals will lower 
+performance in the short-run however, you will be rewarded with much longer information retention. If you had 10 hours to learn something,
+1 hour each day seems to serve you better than 10 hours in one day. 
+
+There are tools for spacing, space-repetition-systems (SRS), which can be used, one of the most famous ones being Anki, a open-source
+program for creating and using flashcards. However, these aren't the only method, regularly doing mini-projects to refresh your skills,
+taking a class where a person can use a language they otherwise wouldn't use, or any method which involves using your skill regularly 
+serve as a great tool to keep the skills and knowledge fresh.
+
+#### Memory Mechanism 2: Proceduralisation
+
+There seems to be a difference between procedural skills, skills which build up and progress with time, compared with declarative knowledge,
+thigs like knowing the pythagorean theorem or the sine rule. One theory suggests that all learning starts as declarative: Someone just learning
+algebra will remember the rules as simply nothing more than knowledge, but as the rules are use more and more to manipulate different
+expressions and equations, it goes from simply knowledge to a skill and a tool. 
+
+Procedural skills are much harder to forget than declarative knowledge and the ways to turn the latter into the former seem to be focusing 
+on drilling it until it becomes a core skill. Proceduralising something involves concious effort, taking some piece of core knowledge
+and focusing on it until it becomes easy to remember. 
+
+#### Memory Mechanism 3: Overlearning
+
+This is something that is quite apparent: Practice above what is required to perform the skill. increases how long the skill sticks to memory. 
+If it takes you 30 mins to remember how to use and code an algorithm, drilling it for another 30 mins to an hour might increase 
+the time taken for the algorithm to be forgotten by a significant margin. 
+
+This lends itself quite nicely with the last memory mechanism, they almost go hand-in-hand, and there are 2 main methods of overlearning:
+
+1. Practicing the skill/knowledge more than is necessary to first remember.
+2. Advanced practice, using a more complicated skill which derives from the first skill: e.g using calculus to remember algebra.
+
+#### Memory Mechanism 4: Mnemonics
+
+A classic tool in the ultralearning repertoire, using specific patters of words to remember a very niche piece of information. 
+Mnemonics are incredibly powerful tools when used properly, Rajveer Meena, the Guiness World Recorld holder for memorising digits
+of the constant pi, knows the number to 70,000 demical places. 
+
+The book argues that the problem with mnemonics is two-fold:
+
+1. They require a lot of deliberate work.
+2. This is perharps the worst problem, the recall of memory is not automatic.
+
+However I see one more problem:
+
+3. It seems only mainly useful for very information dense projects rather than skill based projects.
+
+As a programmer, which is mostly a practical area, it seems not incredibly useful.
+
+### Winning the War Against Forgetting
+
+It is human tendency to forget, but these methods and mechanisms provide tools to combat our very nature. Case studies like Nigel Richards'
+and Rajveer Meena show however, that it need not be a losing one. Remembering things are a key part to any skill, no matter how practical 
+they are, and it seems to be a case of how much hard work we put in, combined with some good strategy.  
+
+## Principle 8: Intuition
+
+Intuition is a skill (under my definition of what a skill is) and it is an incredibly powerful one. It is what allows masters of a craft
+to whizz through problems and their solutions, it's what allows experts to look at a problem and know the answer instantly. In the words
+of my beloved Haikyu!!
+
+- "Talent is something you make bloom, instinct is something you polish." - Toru Oikawa
+
+Masters can focus on the deep principles of a problem, rather than its superficial features. Building off of years of practice and experience,
+intuition becomes a deadly tool. 
+
+### How to Build Your Intuition
+
+As mentioned before, practice and experience are a necessary component to build intuition. But not all practice nor experience is the same.
+The book tells stories of Feynman convincing other students of the specialty of a French Curve (a device for drawing curves) since
+the bottom is tangent to a horizontal line. This, is true for any smooth shape and its a fact of calculus, but his classmates didn't
+realise this. This shows that just practice is not enough to build an intuition for the deep foundantional parts of a skill. 
+So how we avoid building up superficial understanding?
+
+#### Rule 1: Don't Give Up on Hard Problems Easily
+
+A recurring theme in ultralearning by now is that difficulty is not to be shunned but to be embraced, and here it is no different. 
+When coming up with a incredibly hard problem, your gut reaction might be to give up and see how it is done, but you should struggle with it,
+even if you truly don't know a piece of foundational knowledge behind it. 
+
+#### Rule 2: Prove Things to Understand Them
+
+To master something it is necessary for you to not just take facts and information at its face value but to dig deeper. You need to wonder
+the why? or the how? of the information and preferably even prove it yourself. This is something I love doing and why I an such a fan of the C
+programming language. It is not enough to understand hash-maps and how they work, but to create them myself and to truly appreciate the inner working.
+It is not enough to know that the operating system schedules different tasks but it's imperitive that I see and understand for myself why. 
+For deep rich intuition, it is not a boon to wonder the deep working of something, but a requirement.
+
+Something you can do to showcase if you know something deeply is to get a concept or knowledge fact and break it down. Not just mentally, but 
+on a piece of paper. Draw and list all the small parts and how it works and how they are linked and compare with the real answer. Often people 
+believe they know something deeply but when pushed to talk about it in any way beyond its surface, they are incapable of it.
+
+#### Rule 3: Always Start with a Concrete Example
+
+Human beings don't learn things very well if its abstract, but rather learn abstract rules from many different examples. In literature 
+there is something known as the levels-of-processing effect, suggesting that simply how much time you spend on something is not a good
+indication of how you'll retain it, but rather how you think about it. Given a problem, fact, or piece of skill/information it is important
+to pair it with a concrete example. This is also a good form of feedback since if you don't understand something well enough, creating a 
+satisfying example will be quite difficult. 
+
+#### Rule 4: Don't Fool Yourself
+
+"You're the easiest person to fool." was one of Feynman's most popular quotes. You should constantly seek to attack your knowledge. 
+Keep asking questions about what you know, ranging from incredibly simple questions to the deeper, more complex questions. 
+When learning about pointers in C, you might ask yourself:
+
+- What is a pointer?
+- Why is it useful?
+- When is a concrete example to use it?
+- Why is it called a pointer? 
+
+Do not be afraid of asking yourself, or of others, really simple questions in hope you don't look stupid. It is very important that you 
+always know your gaps in knowledge. 
+
+### The Feynman Technique
+
+This is a method to help develop intuition for ideas. It is quite simple: 
+
+1. Write down the concept you want to understand. 
+2. In the space below, exaplin the idea as if you had to teach it to someone else.
+    1. If it's a concept, ask yourself how you would convey the idea to a complete beginner.
+    2. If it's a problem, explain how to solve it and why the method works. 
+3. If and when you get stuck, you found a gap in knowledge that needs to be filled. Either solve it on your own or go back to your notes.
+
+An important effect of this approach is dispelling the illusion of depth of knowledge. If you lack the richness in a particular concept, this 
+method will bring those to the light. 
+
+There are some nuanced applications for this technique:
+
+#### Application 1: For Things You Don't Understand at All
+
+When concepts don't make sense in your head, this procedure can help you wrap your head around the idea. By going back and forth with 
+the provided explanation and your own, you can keep going until you get a satisfying version that you understand. It helps if you sketch 
+ideas and broad strokes as well.
+
+#### Application 2: For Problems You Can't Seem to Solve
+
+If there is a problem/solution that you can't seem to get hang of, something that helps is going through the problem step by step
+while you generate an explanation. Making sure you delve deeper rather than summarising the problem. 
+
+#### Application 3: For Expanding Your Intuition
+
+The final application for the Feynman technique is for ideas so core to the skill/knowledge, that great intuition would be greatly helpful.
+In these cases, generating illustrations, examples, analogies, visualisations etc... that would make the idea more understandable
+for both you and beginners makes a huge help. 
+
+When getting your head around concepts like voltage, coming up with analogies like wires being pipes and electrons being water, the voltage itself
+is like the height of the pipe, forcing the water to flow the direction we want it to flow. 
+
+### Demystifying Intuition
+
+When a grandmaster can look at a position and instantly tell you what game it's from, when and who, it is easy to be discouraged. To look
+at these people are simply magicians of their craft, not reachable by us mere mortals. But when you peel the layers back, these feats 
+are simply showcases of great intuition. An like all other skills, something that can be trained by everyone, even us. 
+What sets apart Magnus Carlsen from me is nothing intrinsic, but rather the great effort and care put for the craft.
+
+#### Principle 9: Experimentation
+
+Here we are, the last principle. If someone not me is reading this I would be shocked, shocked I tell you. It's a big mess of notes,
+some that hardly make sense probably. Still, we got here in the end.
