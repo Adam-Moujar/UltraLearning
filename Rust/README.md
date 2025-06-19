@@ -1,81 +1,67 @@
 # Rust
 
-This details my process of learning Rust as a complete beginner using the process detailed in ultralearning.
+This is my second version of the steps I will take to learn Rust. The first version was done before fully reading ultralearning
+and so this is one where I use the steps outlined in the section "your first ultralearning project" in the book.
 
-## Meta-Learning
+## Metalearning
 
-### Why?
+### What topics will I learn?, and what scope? 
 
-I am someone who really values a minimal environment. 
-I use arch-linux, I code in neovim with a very minimal kickstarter setup. 
-My favourite language (as of 16/06/2025) is C and I love writing most of the code I use
-with minimal external libraries even if there are better alternatives.
+- I want to at first learn the different syntax of Rust and everything that Rusts offers me as features. 
+- I will also like to learn about idiomatic ways to code in Rust.
+- The best ways to approach and structure code. 
+- Any helpful outside libraries.
+- Fastest ways to do certain things which come up a lot. 
+- In essense, I want to learn Rust, how to use it and use it properly, and any tips and tricks available to more advanced use. 
 
-So it would be a huge shift to learn rust, A high level language, with a plethora of features.
-The very simple reason is: I want to become a master with a language which can allow me to do anything.
+### Primary resources you will use:
 
-In theory any language could work, C being one of the few languages which has been used in practically everything.
-Rust is its spiritual successor in that sense. 
-
-Rust is pushed to be used in every single type of software,
-from web apps, to games, to the linux kernel, terminals, clis, even with the use of wasm, as a replacement for
-javascript on the web.
-
-I want to become great at Rust. To be able to write code I would never think to write before.
-Not for a career (though I would love to possibly have one) but as a hobby.
-
-## What?
-
-### Concept
-- Coding with high level features
-- Borrow-Checker
-- Lifetimes 
-- The whole of multithreading
-- Cargo
-- Debugging
-
-### Facts
-- Idiomatic Rust
-- Syntax
-- Helpful libraries/crates
-
-### Procedures
-- IDK?
-
-### Bottlenecks: 
-
-- Borrow-Checker
-- Lifetime
-- Multithreading
-- Idiomatic Rust
-
-In particular, I believe the borrow-checker and lifetimes will be the most time-consuming
-and dificult part of learning rust
-
-## How?
-
-- The Rust Book
-- Rust with examples
+- The rust book
+- Rust by Examples
 - Rustlings
-- Personal projects
-- Analysing other people's code
+- Rust in Action
+- My own projects then on. 
 
-I think these are going to be instrumental in learning Rust.
-The first three. The Rust book, Rust with examples and Rustlings will be most useful at the start.
-While im getting a grasp of Rust.
+The idea is that the rust book and rust by examples will teach me the fundemental knowledge I need to know before I begin, syntax, features, etc...
+Then rustlings will be as a way to make those stick to my mind by practicing retrieval. And finally rust in action is quite useful as a way to tackle
+real life problems. After I gather all that knowledge, I will be able to efficiently and quickly begin tackling my own problems without any outside help. 
 
-The latter 2, will be how I spend the rest of my time learning Rust. By writing code, analysing code, 
-and seeking better code to improve.
+### Benchmark of how others have learnt rust: 
 
-## Benchmarking
+https://www.reddit.com/r/rust/comments/bvzjxm/how_did_you_learn_rust/
 
-How other people learn to code:
+https://www.reddit.com/r/rust/comments/184qlmd/how_did_you_learn_rust/
 
-Rust book: https://www.reddit.com/r/rust/comments/184qlmd/how_did_you_learn_rust/
-Rust in action: https://www.reddit.com/r/rust/comments/ngq5rs/what_do_you_think_is_the_best_way_to_learn_rust/
-Rustlings: https://www.reddit.com/r/rust/comments/ngq5rs/what_do_you_think_is_the_best_way_to_learn_rust/
+https://users.rust-lang.org/t/how-do-i-even-begin-to-learn-rust/94151/10
 
-The top comment by peripateticman2023 in https://www.reddit.com/r/learnrust/comments/162be3r/what_resources_do_you_recommend_to_learn_rust/
-Highlight a lot of the best ways that many others talk about when learning rust. 
+The number one commonly seen advice is to simply code. Coding your own projects will give you the knowledge of, well, coding. 
+However in the poll done in reddit, it seems that the most common way that people learn rust was by reading the book first. 
+In general there are 2 strategies: 
 
-Video by BoilerPlate which actually kickstarted this whole UltraLearning project: https://www.youtube.com/watch?v=2hXNd6x9sZs
+- Jumping straight to coding, better suited if you are coming from another language.
+- Use resources like the book, before going back to coding. 
+
+### Direct practice activities
+
+This is where the rust in action book is really helpful. It is a book dedicated to problems a person can tackle in their way of learning Rust. 
+Of course, also doing my own projects is one option. All in all, not being able to practice is not a problem when it comes to coding. 
+
+### Backup materials and drills
+
+Other material that I have considered are: 
+
+- https://exercism.org/tracks/rust : Exercises for rust.
+- https://www.youtube.com/c/NoBoilerplate : A great youtube viedo which loves to cover Rust and other adjacent content. 
+- Rust for rustaceans book: Ways to learn the idiomatic language pieces. 
+
+## Schedule my time: 
+
+As of 19/06/2025 I have a lot of time, I'm currently searching for a job after finishing uni so the time I have to spend on rust is quite a lot. 
+I would like to spend 6hrs a day on Rust, everyday, if possible. Starting at:
+
+- 9am start
+- 1pm break
+- 2pm start
+- 4pm finish
+
+I would probably also like to chunk that time more, rather than have large 4 hr blocks.
