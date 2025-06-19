@@ -65,3 +65,12 @@ I would like to spend 6hrs a day on Rust, everyday, if possible. Starting at:
 - 4pm finish
 
 I would probably also like to chunk that time more, rather than have large 4 hr blocks.
+
+## Timeline:
+
+- 19/06/2025
+    - Started Rust project
+    - Started Rust book
+    - Started Rust by Examples
+    - Finish chapter 1 of rust book
+    - Finish chapter 1 of rust by examples
