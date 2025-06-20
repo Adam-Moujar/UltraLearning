@@ -74,3 +74,6 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Started Rust by Examples
     - Finish chapter 1 of rust book
     - Finish chapter 1 of rust by examples
+
+- 20/06/2025
+    - Finish chapter 2 of rust book
