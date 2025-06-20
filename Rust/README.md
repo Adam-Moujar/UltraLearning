@@ -78,3 +78,4 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
 - 20/06/2025
     - Finish chapter 2 of rust book
     - Finish chapter 3 of rust book
+    - Finish chapter 2 of rust by examples
