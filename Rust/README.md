@@ -91,4 +91,7 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 7 of rust by examples
 
 - 24/06/2025
-    - Finish chapter 8 of rust book
+    - Finish chapter 8 of rust by examples 
+
+- 25/06/2025
+    - Finish chapter 7 of rust book
