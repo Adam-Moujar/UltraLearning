@@ -97,3 +97,7 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 7 of rust book
     - Finish chapter 8 of rust book
     - Finish chapter 9 of rust book
+
+- 26/06/2025
+    - Finish chapter 10 of rust book
+    - Finish chapter 11 of rust book
