@@ -101,3 +101,4 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
 - 26/06/2025
     - Finish chapter 10 of rust book
     - Finish chapter 11 of rust book
+    - Finish chapter 12 of rust book
