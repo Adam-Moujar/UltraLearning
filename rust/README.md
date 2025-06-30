@@ -113,3 +113,4 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 14 of rust book
     - Finish chapter 12 of rust by examples
     - Finish chapter 13 of rust by examples
+    - Finish chapter 14 of rust by examples
