@@ -114,3 +114,6 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 12 of rust by examples
     - Finish chapter 13 of rust by examples
     - Finish chapter 14 of rust by examples
+
+- 1/07/2025
+    - Finish chapter 15 of rust by examples
