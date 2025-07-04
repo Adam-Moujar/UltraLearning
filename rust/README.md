@@ -124,5 +124,8 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 16 of rust book
 
 - 03/07/2025
-    - Finish chapter 17 of rust book
+    - finish chapter 17 of rust book
     - Finish chapter 18 of rust book
+
+- 04/07/2025
+    - finish chapter 19 of rust book
