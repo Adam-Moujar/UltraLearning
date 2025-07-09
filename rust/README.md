@@ -139,3 +139,4 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - finish chapter 19 of rust by examples
     - finish chapter 20 of rust by examples
     - finish chapter 21 of rust by examples
+    - finish chapter 22 of rust by examples
