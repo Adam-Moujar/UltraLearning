@@ -137,3 +137,4 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
 
 - 09/07/2025
     - finish chapter 19 of rust by examples
+    - finish chapter 20 of rust by examples
