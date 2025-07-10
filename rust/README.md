@@ -124,25 +124,26 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 16 of rust book
 
 - 03/07/2025
-    - finish chapter 17 of rust book
+    - Finish chapter 17 of rust book
     - Finish chapter 18 of rust book
 
 - 04/07/2025
-    - finish chapter 19 of rust book
+    - Finish chapter 19 of rust book
 
 - 08/07/2025
-    - finish chapter 20 of rust book
+    - Finish chapter 20 of rust book
     - Finish chapter 17 of rust by examples
     - Finish chapter 18 of rust by examples
 
 - 09/07/2025
-    - finish chapter 19 of rust by examples
-    - finish chapter 20 of rust by examples
-    - finish chapter 21 of rust by examples
-    - finish chapter 22 of rust by examples
-    - finish chapter 23 of rust by examples
+    - Finish chapter 19 of rust by examples
+    - Finish chapter 20 of rust by examples
+    - Finish chapter 21 of rust by examples
+    - Finish chapter 22 of rust by examples
+    - Finish chapter 23 of rust by examples
     - Finished rust by examples!!
 
 - 09/07/2025
-    - finish chapter 21 of rust book
+    - Finish chapter 21 of rust book
     - Finished rust book!!
+    - Started rustlings
