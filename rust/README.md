@@ -156,3 +156,4 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finished all of exercise 7 of rustlings
     - Finished all of exercise 8 of rustlings
     - Finished all of exercise 9 of rustlings
+    - Finished all of exercise 10 of rustlings
