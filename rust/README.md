@@ -147,3 +147,10 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 21 of rust book
     - Finished rust book!!
     - Started rustlings
+    - Finished all of exercise 1 of rustlings
+    - Finished all of exercise 2 of rustlings
+    - Finished all of exercise 3 of rustlings
+    - Finished all of exercise 4 of rustlings
+    - Finished all of exercise 5 of rustlings
+    - Finished all of exercise 6 of rustlings
+    - Finished all of exercise 7 of rustlings
