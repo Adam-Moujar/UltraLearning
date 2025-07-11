@@ -143,7 +143,7 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finish chapter 23 of rust by examples
     - Finished rust by examples!!
 
-- 09/07/2025
+- 10/07/2025
     - Finish chapter 21 of rust book
     - Finished rust book!!
     - Started rustlings
@@ -160,3 +160,6 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finished all of exercise 11 of rustlings
     - Finished all quiz 2 of rustlings
     - Finished all of exercise 12 of rustlings
+
+- 11/07/2025
+    - Finished all of exercise 13 of rustlings
