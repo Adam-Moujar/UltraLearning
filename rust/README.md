@@ -163,3 +163,5 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
 
 - 11/07/2025
     - Finished all of exercise 13 of rustlings
+    - Finished all exercises 13 to 23 of rustlings
+    - Finished rustlings!!
