@@ -54,6 +54,27 @@ Other material that I have considered are:
 - https://www.youtube.com/c/NoBoilerplate : A great youtube viedo which loves to cover Rust and other adjacent content. 
 - Rust for rustaceans book: Ways to learn the idiomatic language pieces. 
 
+### Change of plans - 12/07/2025
+
+By now I have finished the basic resources:
+
+- Rust book - The golden introduction to Rust
+- Rust by Examples - A more practical look into the topics covered in Rust Book
+- Rustlings - A way to test the knowledge I have gathered so far
+
+The plan after this was to learn Rust in Action before tackling some of my own projects. The idea behind this was that the first 3 resources
+were for gathering how the basics of Rust work, and then use Rust in Action to learn some of the more high level practices of Rust, that is:
+
+- How to test
+- How to separate code
+- How to document well
+- How to scale and refine code
+
+etc.. etc.., but when taking a sneak peek at Rust in Action, it seems a rehash of many of the things we have learnt in the Rust book, just with a 
+systems programming look. I am looking for a book that is more advanced, a book on good principles and idiomatic approaches on how to 
+tacke code in general rather than a relearning of syntax and cool functions. After some research, Rust for Rustaceans seems to be a good fit for
+the type of book I am looking for. That is the new book I will learn.
+
 ## Schedule my time: 
 
 As of 19/06/2025 I have a lot of time, I'm currently searching for a job after finishing uni so the time I have to spend on rust is quite a lot. 
@@ -165,3 +186,6 @@ I would probably also like to chunk that time more, rather than have large 4 hr 
     - Finished all of exercise 13 of rustlings
     - Finished all exercises 13 to 23 of rustlings
     - Finished rustlings!!
+
+- 12/07/2025
+    - Started Rust for Rustaceans
