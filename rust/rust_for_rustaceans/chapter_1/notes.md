@@ -139,7 +139,7 @@ The most common way we will see this be used in Rust is through the usage of `'s
 essentially self-sufficient, they will stick around until the end of the program or we get rid of them explicitly.
 
 
-#### Ownership
+### Ownership
 
 Rust's memory model central idea is that every value has a single owner, a location (usually a scope) that is responsible for dealloaction
 each value. If the value is moved, the ownership of the value goes from the old location to the new one. In which case you are not allowed
@@ -167,4 +167,41 @@ Let y2 = y1 at the end would return an error because the value in y1 was moved i
 However x2 = x1 would compile because x1 is a Copy type and so when we assigned x1 to z, the value was copied rather than moved and we 
 could still use the old flow.
 
+### Borrowing and Lifetimes
 
+Rust allows the owner of a value to lend the value to others through references. Pointers include additional information about how they can
+be used, whether they provide exclusive access to the referenced value, or can the value also have other references aswell.
+
+#### Shared References
+
+A shared refrence, `&T`, is a pointer that may be shared (duh). Any number of shared references may exist and each reference is a Copy type so
+we can trivially make more of them. Values behind shared references are not mutable nor can you cast it to a mutable one.
+
+The Rust compiler will assume that the value behind a shared reference <em>will not change</em>.
+
+#### Mutable References
+
+The alternative to a shared reference is a mutable reference: `&mut T`. This is more restrictive, its an exclusive reference, you can only have 1
+mutable reference and no other references at all. 
+
+The difference between a mutable reference and an owner is that the owner is reponsible for dropping the value. 
+
+#### Interior Mutability
+
+These are special types that can allow you to mutate values even with shared references. There are 2 categories of types that provide interior
+mutability are: 
+
+- Types like `Mutex` and `RefCell` which containt safety mechanisms that make sure there's only 1 mutable reference at a time. 
+- The other type are types that don't provide mutable references to the type, but rather give you methods to manipulate the valyes in place. 
+Stuff like `std::sync::Atomic` for example and `std::cell::Cell`. 
+
+#### Lifetimes
+
+A `lifetime` is just a region of code that a reference must be valid for. It frequently consides with scope, but they are not they do not
+have to be the same.
+
+#### Borrow Checker
+
+At the heart of Rust and its lifetimes is the `borrow checker`. Whenever a reference with a lifetime `'a` is used, the borrow checker
+checks that `'a` is still alive. It goes back to where `'a` begins and checks that no conflicting use in its path. This makes sure
+that the reference points to a value that is safe to access.
