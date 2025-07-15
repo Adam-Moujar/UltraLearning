@@ -75,6 +75,14 @@ systems programming look. I am looking for a book that is more advanced, a book 
 tacke code in general rather than a relearning of syntax and cool functions. After some research, Rust for Rustaceans seems to be a good fit for
 the type of book I am looking for. That is the new book I will learn.
 
+### Change of plans - 15/07/2025
+
+This is the last change of plans. After reading Rust for Rustaceans for 3 days it seems that it is not quite what I wanted. It seeks to explain
+Rust more in depth, yes, but rather how Rust works, not the best practices to take when developing Rust. As such I will pivot to another book
+called Zero2Prod which showcases how to make production code with a hands-on approach of making a project together. If that is, again, unsatisfying
+I will pivot into making my own projects with the ocassional tutorial here and there. 
+
+Zero2Prod is quite a lengthy book, but I hope it teaches me robust coding practices.
 ## Schedule my time: 
 
 As of 19/06/2025 I have a lot of time, I'm currently searching for a job after finishing uni so the time I have to spend on rust is quite a lot. 
