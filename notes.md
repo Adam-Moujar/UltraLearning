@@ -164,7 +164,7 @@ The literature seems to agree that practice broken down into separate studying p
 Similarly, even with solid blocks of study, interleaving different skills to practice seems to be more effective
 than learning one skill at once. 
 
-The book suggests, 50mins to an hour learning blocks for atsks, with several minutes as a break before moving on to the next task. 
+The book suggests, 50mins to an hour learning blocks for tasks, with several minutes as a break before moving on to the next task. 
 Again, this is quite a subjective decision, since it's a question of what time you have open to study. 
 It will be something that is quite personalised for each different ultralearning project and not something that can be
 given a hard rule to follow. 
